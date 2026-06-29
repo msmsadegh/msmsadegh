@@ -111,7 +111,13 @@ sadegh = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/msmsadegh/msmsadegh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msmsadegh&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msmsadegh&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msmsadegh&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msmsadegh&theme=tokyonight&utcOffset=3.5" />
 
 </div>
 
