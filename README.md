@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=msmsadegh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=c9d1d9&rank_icon=github" />
+<img align="right" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msmsadegh&theme=tokyonight" />
 
 ### `> whoami`
 
@@ -111,8 +111,7 @@ sadegh = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmsadegh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=c9d1d9&langs_count=8" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=msmsadegh&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=378ADD&currStreakLabel=378ADD" />
+<img src="https://raw.githubusercontent.com/msmsadegh/msmsadegh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
