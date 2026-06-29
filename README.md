@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" width="340" src="[https://github-readme-stats.vercel.app/api?username=msmsadegh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=c9d1d9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=msmsadegh&...)" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=msmsadegh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=c9d1d9&rank_icon=github" />
 
 ### `> whoami`
 
